@@ -1,6 +1,12 @@
-Requirements:
-networkx
-  Git: pip3 install networkx
-matplotlib
-  Git: pip3 install matplotlib
+# Requirements:
+#####networkx
+
+  pip3 install networkx
+  
+  https://networkx.github.io/
+#####matplotlib
+
+  pip3 install matplotlib
+  
+  http://matplotlib.org/
   
